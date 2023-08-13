@@ -23,7 +23,7 @@ This repository contains very handily crafted and picked top coding interview qu
             <tr>
                 <td>1</td> <td>Set Matrix Zeros</td> <td>LeetCode</td>
                 <td align="center"><a href="https://leetcode.com/problems/set-matrix-zeroes/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
-                <td><a href="./String/letter.cpp">GNU C++14</a></td>
+                <td><a href="./array-basics/set-matrix-zeroes.md">Link</a></td>
             </tr>
         </tbody>
     </table>
