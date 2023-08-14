@@ -25,6 +25,11 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td align="center"><a href="https://leetcode.com/problems/set-matrix-zeroes/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
                 <td><a href="./array-basics/set-matrix-zeroes.md">Link</a></td>
             </tr>
+            <tr>
+                <td>1</td> <td>Pascal's Triangle</td> <td>LeetCode</td>
+                <td align="center"><a href="https://leetcode.com/problems/pascals-triangle/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
+                <td><a href="./array-basics/pascal-triangle.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
