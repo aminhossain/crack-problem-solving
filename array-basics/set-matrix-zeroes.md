@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems" target="_blank">Set Matrix Zeros</a></h1>
+<h1 align="center"><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank">Set Matrix Zeros</a></h1>
 
 # Intuition
 
