@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Set Matrix Zeros</a></h1>
+<h1 align="center"><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Pascal's Triangle</a></h1>
 
 # Intuition
 

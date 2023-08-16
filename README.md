@@ -35,6 +35,11 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td align="center"><a href="https://leetcode.com/problems/pascals-triangle-ii/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
                 <td><a href="./array-basics/pascal-triangle2.md">Link</a></td>
             </tr>
+            <tr>
+                <td>3</td> <td>Next Permutation</td> <td>LeetCode</td>
+                <td align="center"><a href="https://leetcode.com/problems/next-permutation/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
+                <td><a href="./array-basics/next-permutation.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
