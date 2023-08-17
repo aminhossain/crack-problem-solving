@@ -36,9 +36,14 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td><a href="./array-basics/pascal-triangle2.md">Link</a></td>
             </tr>
             <tr>
-                <td>3</td> <td>Next Permutation</td> <td>LeetCode</td>
+                <td>4</td> <td>Next Permutation</td> <td>LeetCode</td>
                 <td align="center"><a href="https://leetcode.com/problems/next-permutation/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
                 <td><a href="./array-basics/next-permutation.md">Link</a></td>
+            </tr>
+            <tr>
+                <td>5</td> <td>Maximum Subarray</td> <td>LeetCode</td>
+                <td align="center"><a href="https://leetcode.com/problems/maximum-subarray/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
+                <td><a href="./array-basics/maximum-subarray.md">Link</a></td>
             </tr>
         </tbody>
     </table>

@@ -8,8 +8,6 @@
 
 <!-- Describe your approach to solving the problem. -->
 
-#### Simple two steps to solve the problem:
-
 # Complexity
 
 - Time complexity:
