@@ -50,6 +50,11 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td align="center"><a href="https://leetcode.com/problems/sort-colors/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
                 <td><a href="./array-basics/sort-colors.md">Link</a></td>
             </tr>
+            <tr>
+                <td>7</td> <td>Best Time to Buy and Sell Stock</td> <td>LeetCode</td>
+                <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
+                <td><a href="./array-basics/buy-and-sell-stock.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
