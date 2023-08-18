@@ -45,6 +45,11 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td align="center"><a href="https://leetcode.com/problems/maximum-subarray/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
                 <td><a href="./array-basics/maximum-subarray.md">Link</a></td>
             </tr>
+            <tr>
+                <td>6</td> <td>Sort Colors</td> <td>LeetCode</td>
+                <td align="center"><a href="https://leetcode.com/problems/sort-colors/"><img src="./img/leet-code.png" height="40" width="auto"/></a></td>
+                <td><a href="./array-basics/sort-colors.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
