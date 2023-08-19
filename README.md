@@ -56,7 +56,11 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td><a href="./array-basics/buy-and-sell-stock.md">Link</a></td>
             </tr>
         </tbody>
-        <summary> Array Basics </summary>
+    </table>
+</details>
+
+<details>
+    <summary> Array II </summary>
     <table>
         <thead>
             <th>#</th> 
@@ -73,7 +77,7 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td align="center">
                     <a href="https://leetcode.com/problems/rotate-image/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
                 </td>
-                <td><a href="./array-II/set-matrix-zeroes.md">Link</a></td>
+                <td><a href="./array-II/rotate-image.md">Link</a></td>
             </tr>
         </tbody>
     </table>
