@@ -56,5 +56,25 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td><a href="./array-basics/buy-and-sell-stock.md">Link</a></td>
             </tr>
         </tbody>
+        <summary> Array Basics </summary>
+    <table>
+        <thead>
+            <th>#</th> 
+            <th>Problem Title</th> 
+            <th>Online Judge</th>
+            <th>Problem Link</th> 
+            <th>Solution</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Rotate Image</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/rotate-image/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/set-matrix-zeroes.md">Link</a></td>
+            </tr>
+        </tbody>
     </table>
 </details>
