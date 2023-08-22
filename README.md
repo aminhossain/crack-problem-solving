@@ -79,6 +79,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/rotate-image.md">Link</a></td>
             </tr>
+            <tr>
+                <td>2</td>
+                <td>Merge Intervals</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/merge-intervals/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/merge-intervals.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
