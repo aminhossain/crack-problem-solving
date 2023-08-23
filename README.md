@@ -88,6 +88,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/merge-intervals.md">Link</a></td>
             </tr>
+             <tr>
+                <td>3</td>
+                <td>Merge Two Sorted Arrays</td> 
+                <td>Coding Ninja</td>
+                <td align="center">
+                    <a href="https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays-without-extra-space_6898839">CodingNinja</a>
+                </td>
+                <td><a href="./array-II/merge-two-sorted-arrays.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
