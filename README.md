@@ -106,6 +106,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/inversions-of-array.md">Link</a></td>
             </tr>
+            <tr>
+                <td>5</td>
+                <td>Search in a sorted 2D matrix</td> 
+                <td>None</td>
+                <td align="center">
+                    <a href="#">None</a>
+                </td>
+                <td><a href="./array-II/search-2D-array.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
