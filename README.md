@@ -115,6 +115,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/search-2D-array.md">Link</a></td>
             </tr>
+            <tr>
+                <td>6</td>
+                <td>Pow(x,n)</td> 
+                <td>Leetcode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/powx-n/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/pow.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
