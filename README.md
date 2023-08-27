@@ -124,6 +124,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/pow.md">Link</a></td>
             </tr>
+            <tr>
+                <td>7</td>
+                <td>Grid Unique Paths</td> 
+                <td>Leetcode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/unique-paths/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/unique-paths.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
