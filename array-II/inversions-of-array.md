@@ -17,7 +17,7 @@
 
 - Space complexity:
   <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-  `O(1)`
+  `O(N)`
 
 # Code: JavaScript
 

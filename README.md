@@ -133,6 +133,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/unique-paths.md">Link</a></td>
             </tr>
+            <tr>
+                <td>8</td>
+                <td>Reverse Pairs</td> 
+                <td>Leetcode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/reverse-pairs/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/reverse-pairs.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
