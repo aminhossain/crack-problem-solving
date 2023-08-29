@@ -145,3 +145,27 @@ This repository contains very handily crafted and picked top coding interview qu
         </tbody>
     </table>
 </details>
+
+<details>
+    <summary> Array III </summary>
+    <table>
+        <thead>
+            <th>#</th> 
+            <th>Problem Title</th> 
+            <th>Online Judge</th>
+            <th>Problem Link</th> 
+            <th>Solution</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Two Sum</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/two-sum/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-III/two-sum.md">Link</a></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
