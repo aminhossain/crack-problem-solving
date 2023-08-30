@@ -166,6 +166,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-III/two-sum.md">Link</a></td>
             </tr>
+            <tr>
+                <td>2</td>
+                <td>Minimum Replacements</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/minimum-replacements-to-sort-the-array/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-III/minimum-replace.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
