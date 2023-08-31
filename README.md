@@ -142,6 +142,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/reverse-pairs.md">Link</a></td>
             </tr>
+            <tr>
+                <td>9</td>
+                <td>Minimum Number of Taps to Open to Water a Garden</td> 
+                <td>Leetcode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/minimum-taps.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
