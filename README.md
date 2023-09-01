@@ -168,7 +168,7 @@ This repository contains very handily crafted and picked top coding interview qu
         <tbody>
             <tr>
                 <td>1</td>
-                <td>Two Sum</td> 
+                <td>2Sum</td> 
                 <td>LeetCode</td>
                 <td align="center">
                     <a href="https://leetcode.com/problems/two-sum/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
@@ -183,6 +183,15 @@ This repository contains very handily crafted and picked top coding interview qu
                     <a href="https://leetcode.com/problems/minimum-replacements-to-sort-the-array/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
                 </td>
                 <td><a href="./array-III/minimum-replace.md">Link</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>3Sum</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/3sum/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-III/three-sum.md">Link</a></td>
             </tr>
         </tbody>
     </table>
