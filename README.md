@@ -193,6 +193,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-III/three-sum.md">Link</a></td>
             </tr>
+            <tr>
+                <td>4</td>
+                <td>4Sum</td> 
+                <td>LeetCode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/4sum/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-III/four-sum.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
