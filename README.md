@@ -151,6 +151,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/minimum-taps.md">Link</a></td>
             </tr>
+            <tr>
+                <td>10</td>
+                <td>Missing Number</td> 
+                <td>Leetcode</td>
+                <td align="center">
+                    <a href="https://leetcode.com/problems/missing-number/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/missing-number.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
