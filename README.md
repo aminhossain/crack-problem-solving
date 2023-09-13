@@ -93,7 +93,7 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td>Merge Two Sorted Arrays</td> 
                 <td>Coding Ninja</td>
                 <td align="center">
-                    <a href="https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays-without-extra-space_6898839">CodingNinja</a>
+                    <a href="https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays-without-extra-space_6898839"><img src="./img/code-ninja.jpeg" height="40" width="auto"/></a>
                 </td>
                 <td><a href="./array-II/merge-two-sorted-arrays.md">Link</a></td>
             </tr>
@@ -102,7 +102,7 @@ This repository contains very handily crafted and picked top coding interview qu
                 <td>Inversion of Array</td> 
                 <td>Coding Ninja</td>
                 <td align="center">
-                    <a href="https://www.codingninjas.com/studio/problems/number-of-inversions_6840276">CodingNinja</a>
+                    <a href="https://www.codingninjas.com/studio/problems/number-of-inversions_6840276"><img src="./img/code-ninja.jpeg" height="40" width="auto"/></a>
                 </td>
                 <td><a href="./array-II/inversions-of-array.md">Link</a></td>
             </tr>
@@ -159,6 +159,15 @@ This repository contains very handily crafted and picked top coding interview qu
                     <a href="https://leetcode.com/problems/missing-number/"><img src="./img/leet-code.png" height="40" width="auto"/></a>
                 </td>
                 <td><a href="./array-II/missing-number.md">Link</a></td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Longest Subarray With Sum K</td> 
+                <td>CodingNinja</td>
+                <td align="center">
+                    <a href="https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399"><img src="./img/code-ninja.jpeg" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/longest-subarray-sum.md">Link</a></td>
             </tr>
         </tbody>
     </table>
