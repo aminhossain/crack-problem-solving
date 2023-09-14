@@ -169,6 +169,15 @@ This repository contains very handily crafted and picked top coding interview qu
                 </td>
                 <td><a href="./array-II/longest-subarray-sum.md">Link</a></td>
             </tr>
+            <tr>
+                <td>11</td>
+                <td>Longest Subarray With Sum K (Positive + Negative)</td> 
+                <td>CodingNinja</td>
+                <td align="center">
+                    <a href="https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505"><img src="./img/code-ninja.jpeg" height="40" width="auto"/></a>
+                </td>
+                <td><a href="./array-II/longest-subarray-sum-II.md">Link</a></td>
+            </tr>
         </tbody>
     </table>
 </details>
